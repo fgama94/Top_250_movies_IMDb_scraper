@@ -1,0 +1,280 @@
+2024-05-15 13:58:38,236 - INFO - Starting...
+2024-05-15 13:58:50,003 - INFO - Retrieving data from https://www.imdb.com/title/tt0111161/?ref_=chttp_t_1
+2024-05-15 13:58:50,003 - INFO - Retrieving data from https://www.imdb.com/title/tt0068646/?ref_=chttp_t_2
+2024-05-15 13:58:50,003 - INFO - Retrieving data from https://www.imdb.com/title/tt0468569/?ref_=chttp_t_3
+2024-05-15 13:58:50,003 - INFO - Retrieving data from https://www.imdb.com/title/tt0071562/?ref_=chttp_t_4
+2024-05-15 13:58:50,003 - INFO - Retrieving data from https://www.imdb.com/title/tt0050083/?ref_=chttp_t_5
+2024-05-15 13:58:50,003 - INFO - Retrieving data from https://www.imdb.com/title/tt0108052/?ref_=chttp_t_6
+2024-05-15 13:58:50,003 - INFO - Retrieving data from https://www.imdb.com/title/tt0167260/?ref_=chttp_t_7
+2024-05-15 13:58:50,003 - INFO - Retrieving data from https://www.imdb.com/title/tt0110912/?ref_=chttp_t_8
+2024-05-15 13:58:50,003 - INFO - Retrieving data from https://www.imdb.com/title/tt0120737/?ref_=chttp_t_9
+2024-05-15 13:58:50,003 - INFO - Retrieving data from https://www.imdb.com/title/tt0060196/?ref_=chttp_t_10
+2024-05-15 13:59:45,207 - INFO - Finished processing batch.
+2024-05-15 13:59:45,207 - INFO - Retrieving data from https://www.imdb.com/title/tt0109830/?ref_=chttp_t_11
+2024-05-15 13:59:45,209 - INFO - Retrieving data from https://www.imdb.com/title/tt0167261/?ref_=chttp_t_12
+2024-05-15 13:59:45,209 - INFO - Retrieving data from https://www.imdb.com/title/tt0137523/?ref_=chttp_t_13
+2024-05-15 13:59:45,209 - INFO - Retrieving data from https://www.imdb.com/title/tt1375666/?ref_=chttp_t_14
+2024-05-15 13:59:45,210 - INFO - Retrieving data from https://www.imdb.com/title/tt0080684/?ref_=chttp_t_15
+2024-05-15 13:59:45,211 - INFO - Retrieving data from https://www.imdb.com/title/tt0133093/?ref_=chttp_t_16
+2024-05-15 13:59:45,211 - INFO - Retrieving data from https://www.imdb.com/title/tt0099685/?ref_=chttp_t_17
+2024-05-15 13:59:45,212 - INFO - Retrieving data from https://www.imdb.com/title/tt0073486/?ref_=chttp_t_18
+2024-05-15 13:59:45,213 - INFO - Retrieving data from https://www.imdb.com/title/tt0114369/?ref_=chttp_t_19
+2024-05-15 13:59:45,213 - INFO - Retrieving data from https://www.imdb.com/title/tt0816692/?ref_=chttp_t_20
+2024-05-15 14:01:13,257 - INFO - Finished processing batch.
+2024-05-15 14:01:13,257 - INFO - Retrieving data from https://www.imdb.com/title/tt0038650/?ref_=chttp_t_21
+2024-05-15 14:01:13,257 - INFO - Retrieving data from https://www.imdb.com/title/tt0047478/?ref_=chttp_t_22
+2024-05-15 14:01:13,258 - INFO - Retrieving data from https://www.imdb.com/title/tt0102926/?ref_=chttp_t_23
+2024-05-15 14:01:13,259 - INFO - Retrieving data from https://www.imdb.com/title/tt0120815/?ref_=chttp_t_24
+2024-05-15 14:01:13,260 - INFO - Retrieving data from https://www.imdb.com/title/tt0317248/?ref_=chttp_t_25
+2024-05-15 14:01:13,261 - INFO - Retrieving data from https://www.imdb.com/title/tt15239678/?ref_=chttp_t_26
+2024-05-15 14:01:13,262 - INFO - Retrieving data from https://www.imdb.com/title/tt0118799/?ref_=chttp_t_27
+2024-05-15 14:01:13,263 - INFO - Retrieving data from https://www.imdb.com/title/tt0120689/?ref_=chttp_t_28
+2024-05-15 14:01:13,263 - INFO - Retrieving data from https://www.imdb.com/title/tt0103064/?ref_=chttp_t_29
+2024-05-15 14:01:13,264 - INFO - Retrieving data from https://www.imdb.com/title/tt0076759/?ref_=chttp_t_30
+2024-05-15 14:02:38,554 - INFO - Finished processing batch.
+2024-05-15 14:02:38,555 - INFO - Retrieving data from https://www.imdb.com/title/tt0088763/?ref_=chttp_t_31
+2024-05-15 14:02:38,555 - INFO - Retrieving data from https://www.imdb.com/title/tt0245429/?ref_=chttp_t_32
+2024-05-15 14:02:38,556 - INFO - Retrieving data from https://www.imdb.com/title/tt0253474/?ref_=chttp_t_33
+2024-05-15 14:02:38,557 - INFO - Retrieving data from https://www.imdb.com/title/tt6751668/?ref_=chttp_t_34
+2024-05-15 14:02:38,558 - INFO - Retrieving data from https://www.imdb.com/title/tt0054215/?ref_=chttp_t_35
+2024-05-15 14:02:38,559 - INFO - Retrieving data from https://www.imdb.com/title/tt9362722/?ref_=chttp_t_36
+2024-05-15 14:02:38,560 - INFO - Retrieving data from https://www.imdb.com/title/tt0172495/?ref_=chttp_t_37
+2024-05-15 14:02:38,560 - INFO - Retrieving data from https://www.imdb.com/title/tt0110357/?ref_=chttp_t_38
+2024-05-15 14:02:38,561 - INFO - Retrieving data from https://www.imdb.com/title/tt0407887/?ref_=chttp_t_39
+2024-05-15 14:02:38,561 - INFO - Retrieving data from https://www.imdb.com/title/tt0110413/?ref_=chttp_t_40
+2024-05-15 14:04:15,693 - INFO - Finished processing batch.
+2024-05-15 14:04:15,694 - INFO - Retrieving data from https://www.imdb.com/title/tt0120586/?ref_=chttp_t_41
+2024-05-15 14:04:15,694 - INFO - Retrieving data from https://www.imdb.com/title/tt2582802/?ref_=chttp_t_42
+2024-05-15 14:04:15,695 - INFO - Retrieving data from https://www.imdb.com/title/tt0482571/?ref_=chttp_t_43
+2024-05-15 14:04:15,695 - INFO - Retrieving data from https://www.imdb.com/title/tt0095327/?ref_=chttp_t_44
+2024-05-15 14:04:15,696 - INFO - Retrieving data from https://www.imdb.com/title/tt0056058/?ref_=chttp_t_45
+2024-05-15 14:04:15,696 - INFO - Retrieving data from https://www.imdb.com/title/tt0114814/?ref_=chttp_t_46
+2024-05-15 14:04:15,697 - INFO - Retrieving data from https://www.imdb.com/title/tt0034583/?ref_=chttp_t_47
+2024-05-15 14:04:15,697 - INFO - Retrieving data from https://www.imdb.com/title/tt1675434/?ref_=chttp_t_48
+2024-05-15 14:04:15,698 - INFO - Retrieving data from https://www.imdb.com/title/tt0095765/?ref_=chttp_t_49
+2024-05-15 14:04:15,698 - INFO - Retrieving data from https://www.imdb.com/title/tt0027977/?ref_=chttp_t_50
+2024-05-15 14:05:03,243 - INFO - Finished processing batch.
+2024-05-15 14:05:03,244 - INFO - Retrieving data from https://www.imdb.com/title/tt0047396/?ref_=chttp_t_51
+2024-05-15 14:05:03,245 - INFO - Retrieving data from https://www.imdb.com/title/tt0064116/?ref_=chttp_t_52
+2024-05-15 14:05:03,245 - INFO - Retrieving data from https://www.imdb.com/title/tt0078748/?ref_=chttp_t_53
+2024-05-15 14:05:03,246 - INFO - Retrieving data from https://www.imdb.com/title/tt0021749/?ref_=chttp_t_54
+2024-05-15 14:05:03,246 - INFO - Retrieving data from https://www.imdb.com/title/tt1853728/?ref_=chttp_t_55
+2024-05-15 14:05:03,247 - INFO - Retrieving data from https://www.imdb.com/title/tt0078788/?ref_=chttp_t_56
+2024-05-15 14:05:03,247 - INFO - Retrieving data from https://www.imdb.com/title/tt0209144/?ref_=chttp_t_57
+2024-05-15 14:05:03,248 - INFO - Retrieving data from https://www.imdb.com/title/tt23849204/?ref_=chttp_t_58
+2024-05-15 14:05:03,248 - INFO - Retrieving data from https://www.imdb.com/title/tt0910970/?ref_=chttp_t_59
+2024-05-15 14:05:03,249 - INFO - Retrieving data from https://www.imdb.com/title/tt0082971/?ref_=chttp_t_60
+2024-05-15 14:05:54,710 - INFO - Finished processing batch.
+2024-05-15 14:05:54,710 - INFO - Retrieving data from https://www.imdb.com/title/tt0405094/?ref_=chttp_t_61
+2024-05-15 14:05:54,711 - INFO - Retrieving data from https://www.imdb.com/title/tt0043014/?ref_=chttp_t_62
+2024-05-15 14:05:54,711 - INFO - Retrieving data from https://www.imdb.com/title/tt4154756/?ref_=chttp_t_63
+2024-05-15 14:05:54,711 - INFO - Retrieving data from https://www.imdb.com/title/tt0050825/?ref_=chttp_t_64
+2024-05-15 14:05:54,713 - INFO - Retrieving data from https://www.imdb.com/title/tt4633694/?ref_=chttp_t_65
+2024-05-15 14:05:54,713 - INFO - Retrieving data from https://www.imdb.com/title/tt0051201/?ref_=chttp_t_66
+2024-05-15 14:05:54,714 - INFO - Retrieving data from https://www.imdb.com/title/tt0081505/?ref_=chttp_t_67
+2024-05-15 14:05:54,715 - INFO - Retrieving data from https://www.imdb.com/title/tt0032553/?ref_=chttp_t_68
+2024-05-15 14:05:54,715 - INFO - Retrieving data from https://www.imdb.com/title/tt0090605/?ref_=chttp_t_69
+2024-05-15 14:05:54,716 - INFO - Retrieving data from https://www.imdb.com/title/tt0361748/?ref_=chttp_t_70
+2024-05-15 14:06:51,355 - INFO - Finished processing batch.
+2024-05-15 14:06:51,356 - INFO - Retrieving data from https://www.imdb.com/title/tt1345836/?ref_=chttp_t_71
+2024-05-15 14:06:51,356 - INFO - Retrieving data from https://www.imdb.com/title/tt0057012/?ref_=chttp_t_72
+2024-05-15 14:06:51,357 - INFO - Retrieving data from https://www.imdb.com/title/tt0169547/?ref_=chttp_t_73
+2024-05-15 14:06:51,358 - INFO - Retrieving data from https://www.imdb.com/title/tt2380307/?ref_=chttp_t_74
+2024-05-15 14:06:51,359 - INFO - Retrieving data from https://www.imdb.com/title/tt0364569/?ref_=chttp_t_75
+2024-05-15 14:06:51,359 - INFO - Retrieving data from https://www.imdb.com/title/tt0086879/?ref_=chttp_t_76
+2024-05-15 14:06:51,360 - INFO - Retrieving data from https://www.imdb.com/title/tt0114709/?ref_=chttp_t_77
+2024-05-15 14:06:51,361 - INFO - Retrieving data from https://www.imdb.com/title/tt0082096/?ref_=chttp_t_78
+2024-05-15 14:06:51,362 - INFO - Retrieving data from https://www.imdb.com/title/tt4154796/?ref_=chttp_t_79
+2024-05-15 14:06:51,362 - INFO - Retrieving data from https://www.imdb.com/title/tt0112573/?ref_=chttp_t_80
+2024-05-15 14:08:07,856 - INFO - Finished processing batch.
+2024-05-15 14:08:07,857 - INFO - Retrieving data from https://www.imdb.com/title/tt0119217/?ref_=chttp_t_81
+2024-05-15 14:08:07,857 - INFO - Retrieving data from https://www.imdb.com/title/tt0119698/?ref_=chttp_t_82
+2024-05-15 14:08:07,858 - INFO - Retrieving data from https://www.imdb.com/title/tt7286456/?ref_=chttp_t_83
+2024-05-15 14:08:07,859 - INFO - Retrieving data from https://www.imdb.com/title/tt5311514/?ref_=chttp_t_84
+2024-05-15 14:08:07,859 - INFO - Retrieving data from https://www.imdb.com/title/tt0057565/?ref_=chttp_t_85
+2024-05-15 14:08:07,860 - INFO - Retrieving data from https://www.imdb.com/title/tt0087843/?ref_=chttp_t_86
+2024-05-15 14:08:07,861 - INFO - Retrieving data from https://www.imdb.com/title/tt1187043/?ref_=chttp_t_87
+2024-05-15 14:08:07,861 - INFO - Retrieving data from https://www.imdb.com/title/tt0045152/?ref_=chttp_t_88
+2024-05-15 14:08:07,861 - INFO - Retrieving data from https://www.imdb.com/title/tt8267604/?ref_=chttp_t_89
+2024-05-15 14:08:07,862 - INFO - Retrieving data from https://www.imdb.com/title/tt0091251/?ref_=chttp_t_90
+2024-05-15 14:08:57,189 - INFO - Finished processing batch.
+2024-05-15 14:08:57,189 - INFO - Retrieving data from https://www.imdb.com/title/tt0180093/?ref_=chttp_t_91
+2024-05-15 14:08:57,190 - INFO - Retrieving data from https://www.imdb.com/title/tt0435761/?ref_=chttp_t_92
+2024-05-15 14:08:57,191 - INFO - Retrieving data from https://www.imdb.com/title/tt0086190/?ref_=chttp_t_93
+2024-05-15 14:08:57,191 - INFO - Retrieving data from https://www.imdb.com/title/tt0338013/?ref_=chttp_t_94
+2024-05-15 14:08:57,192 - INFO - Retrieving data from https://www.imdb.com/title/tt2106476/?ref_=chttp_t_95
+2024-05-15 14:08:57,192 - INFO - Retrieving data from https://www.imdb.com/title/tt0062622/?ref_=chttp_t_96
+2024-05-15 14:08:57,193 - INFO - Retrieving data from https://www.imdb.com/title/tt15398776/?ref_=chttp_t_97
+2024-05-15 14:08:57,194 - INFO - Retrieving data from https://www.imdb.com/title/tt0105236/?ref_=chttp_t_98
+2024-05-15 14:08:57,194 - INFO - Retrieving data from https://www.imdb.com/title/tt0044741/?ref_=chttp_t_99
+2024-05-15 14:08:57,194 - INFO - Retrieving data from https://www.imdb.com/title/tt0056172/?ref_=chttp_t_100
+2024-05-15 14:09:48,862 - INFO - Finished processing batch.
+2024-05-15 14:09:48,863 - INFO - Retrieving data from https://www.imdb.com/title/tt0053604/?ref_=chttp_t_101
+2024-05-15 14:09:48,864 - INFO - Retrieving data from https://www.imdb.com/title/tt0053125/?ref_=chttp_t_102
+2024-05-15 14:09:48,864 - INFO - Retrieving data from https://www.imdb.com/title/tt1255953/?ref_=chttp_t_103
+2024-05-15 14:09:48,864 - INFO - Retrieving data from https://www.imdb.com/title/tt0033467/?ref_=chttp_t_104
+2024-05-15 14:09:48,865 - INFO - Retrieving data from https://www.imdb.com/title/tt0022100/?ref_=chttp_t_105
+2024-05-15 14:09:48,866 - INFO - Retrieving data from https://www.imdb.com/title/tt0052357/?ref_=chttp_t_106
+2024-05-15 14:09:48,866 - INFO - Retrieving data from https://www.imdb.com/title/tt0036775/?ref_=chttp_t_107
+2024-05-15 14:09:48,868 - INFO - Retrieving data from https://www.imdb.com/title/tt0086250/?ref_=chttp_t_108
+2024-05-15 14:09:48,869 - INFO - Retrieving data from https://www.imdb.com/title/tt0093058/?ref_=chttp_t_109
+2024-05-15 14:09:48,869 - INFO - Retrieving data from https://www.imdb.com/title/tt0211915/?ref_=chttp_t_110
+2024-05-15 14:10:46,665 - INFO - Finished processing batch.
+2024-05-15 14:10:46,666 - INFO - Retrieving data from https://www.imdb.com/title/tt0113277/?ref_=chttp_t_111
+2024-05-15 14:10:46,666 - INFO - Retrieving data from https://www.imdb.com/title/tt0066921/?ref_=chttp_t_112
+2024-05-15 14:10:46,667 - INFO - Retrieving data from https://www.imdb.com/title/tt1049413/?ref_=chttp_t_113
+2024-05-15 14:10:46,668 - INFO - Retrieving data from https://www.imdb.com/title/tt0056592/?ref_=chttp_t_114
+2024-05-15 14:10:46,668 - INFO - Retrieving data from https://www.imdb.com/title/tt1832382/?ref_=chttp_t_115
+2024-05-15 14:10:46,669 - INFO - Retrieving data from https://www.imdb.com/title/tt0070735/?ref_=chttp_t_116
+2024-05-15 14:10:46,669 - INFO - Retrieving data from https://www.imdb.com/title/tt0097576/?ref_=chttp_t_117
+2024-05-15 14:10:46,670 - INFO - Retrieving data from https://www.imdb.com/title/tt0095016/?ref_=chttp_t_118
+2024-05-15 14:10:46,671 - INFO - Retrieving data from https://www.imdb.com/title/tt0017136/?ref_=chttp_t_119
+2024-05-15 14:10:46,671 - INFO - Retrieving data from https://www.imdb.com/title/tt0986264/?ref_=chttp_t_120
+2024-05-15 14:11:55,514 - INFO - Finished processing batch.
+2024-05-15 14:11:55,514 - INFO - Retrieving data from https://www.imdb.com/title/tt0208092/?ref_=chttp_t_121
+2024-05-15 14:11:55,515 - INFO - Retrieving data from https://www.imdb.com/title/tt8503618/?ref_=chttp_t_122
+2024-05-15 14:11:55,515 - INFO - Retrieving data from https://www.imdb.com/title/tt0119488/?ref_=chttp_t_123
+2024-05-15 14:11:55,515 - INFO - Retrieving data from https://www.imdb.com/title/tt8579674/?ref_=chttp_t_124
+2024-05-15 14:11:55,516 - INFO - Retrieving data from https://www.imdb.com/title/tt0040522/?ref_=chttp_t_125
+2024-05-15 14:11:55,516 - INFO - Retrieving data from https://www.imdb.com/title/tt0075314/?ref_=chttp_t_126
+2024-05-15 14:11:55,517 - INFO - Retrieving data from https://www.imdb.com/title/tt0363163/?ref_=chttp_t_127
+2024-05-15 14:11:55,517 - INFO - Retrieving data from https://www.imdb.com/title/tt5074352/?ref_=chttp_t_128
+2024-05-15 14:11:55,517 - INFO - Retrieving data from https://www.imdb.com/title/tt0059578/?ref_=chttp_t_129
+2024-05-15 14:11:55,518 - INFO - Retrieving data from https://www.imdb.com/title/tt0372784/?ref_=chttp_t_130
+2024-05-15 14:13:08,779 - INFO - Finished processing batch.
+2024-05-15 14:13:08,779 - INFO - Retrieving data from https://www.imdb.com/title/tt0993846/?ref_=chttp_t_131
+2024-05-15 14:13:08,779 - INFO - Retrieving data from https://www.imdb.com/title/tt0053291/?ref_=chttp_t_132
+2024-05-15 14:13:08,781 - INFO - Retrieving data from https://www.imdb.com/title/tt6966692/?ref_=chttp_t_133
+2024-05-15 14:13:08,781 - INFO - Retrieving data from https://www.imdb.com/title/tt0012349/?ref_=chttp_t_134
+2024-05-15 14:13:08,781 - INFO - Retrieving data from https://www.imdb.com/title/tt10272386/?ref_=chttp_t_135
+2024-05-15 14:13:08,783 - INFO - Retrieving data from https://www.imdb.com/title/tt0055031/?ref_=chttp_t_136
+2024-05-15 14:13:08,783 - INFO - Retrieving data from https://www.imdb.com/title/tt0120382/?ref_=chttp_t_137
+2024-05-15 14:13:08,784 - INFO - Retrieving data from https://www.imdb.com/title/tt0042192/?ref_=chttp_t_138
+2024-05-15 14:13:08,784 - INFO - Retrieving data from https://www.imdb.com/title/tt1745960/?ref_=chttp_t_139
+2024-05-15 14:13:08,785 - INFO - Retrieving data from https://www.imdb.com/title/tt1130884/?ref_=chttp_t_140
+2024-05-15 14:13:56,941 - INFO - Finished processing batch.
+2024-05-15 14:13:56,941 - INFO - Retrieving data from https://www.imdb.com/title/tt0469494/?ref_=chttp_t_141
+2024-05-15 14:13:56,942 - INFO - Retrieving data from https://www.imdb.com/title/tt0112641/?ref_=chttp_t_142
+2024-05-15 14:13:56,943 - INFO - Retrieving data from https://www.imdb.com/title/tt0107290/?ref_=chttp_t_143
+2024-05-15 14:13:56,943 - INFO - Retrieving data from https://www.imdb.com/title/tt0089881/?ref_=chttp_t_144
+2024-05-15 14:13:56,944 - INFO - Retrieving data from https://www.imdb.com/title/tt0167404/?ref_=chttp_t_145
+2024-05-15 14:13:56,945 - INFO - Retrieving data from https://www.imdb.com/title/tt0457430/?ref_=chttp_t_146
+2024-05-15 14:13:56,945 - INFO - Retrieving data from https://www.imdb.com/title/tt0105695/?ref_=chttp_t_147
+2024-05-15 14:13:56,946 - INFO - Retrieving data from https://www.imdb.com/title/tt0477348/?ref_=chttp_t_148
+2024-05-15 14:13:56,946 - INFO - Retrieving data from https://www.imdb.com/title/tt0268978/?ref_=chttp_t_149
+2024-05-15 14:13:56,947 - INFO - Retrieving data from https://www.imdb.com/title/tt0084787/?ref_=chttp_t_150
+2024-05-15 14:14:46,335 - INFO - Finished processing batch.
+2024-05-15 14:14:46,336 - INFO - Retrieving data from https://www.imdb.com/title/tt0266697/?ref_=chttp_t_151
+2024-05-15 14:14:46,337 - INFO - Retrieving data from https://www.imdb.com/title/tt0040897/?ref_=chttp_t_152
+2024-05-15 14:14:46,337 - INFO - Retrieving data from https://www.imdb.com/title/tt0055630/?ref_=chttp_t_153
+2024-05-15 14:14:46,338 - INFO - Retrieving data from https://www.imdb.com/title/tt0071853/?ref_=chttp_t_154
+2024-05-15 14:14:46,339 - INFO - Retrieving data from https://www.imdb.com/title/tt0057115/?ref_=chttp_t_155
+2024-05-15 14:14:46,339 - INFO - Retrieving data from https://www.imdb.com/title/tt0266543/?ref_=chttp_t_156
+2024-05-15 14:14:46,340 - INFO - Retrieving data from https://www.imdb.com/title/tt1392214/?ref_=chttp_t_157
+2024-05-15 14:14:46,341 - INFO - Retrieving data from https://www.imdb.com/title/tt0042876/?ref_=chttp_t_158
+2024-05-15 14:14:46,342 - INFO - Retrieving data from https://www.imdb.com/title/tt0347149/?ref_=chttp_t_159
+2024-05-15 14:14:46,343 - INFO - Retrieving data from https://www.imdb.com/title/tt0080678/?ref_=chttp_t_160
+2024-05-15 14:15:34,608 - INFO - Finished processing batch.
+2024-05-15 14:15:34,608 - INFO - Retrieving data from https://www.imdb.com/title/tt0071315/?ref_=chttp_t_161
+2024-05-15 14:15:34,609 - INFO - Retrieving data from https://www.imdb.com/title/tt0046912/?ref_=chttp_t_162
+2024-05-15 14:15:34,610 - INFO - Retrieving data from https://www.imdb.com/title/tt0031381/?ref_=chttp_t_163
+2024-05-15 14:15:34,610 - INFO - Retrieving data from https://www.imdb.com/title/tt0434409/?ref_=chttp_t_164
+2024-05-15 14:15:34,611 - INFO - Retrieving data from https://www.imdb.com/title/tt0120735/?ref_=chttp_t_165
+2024-05-15 14:15:34,612 - INFO - Retrieving data from https://www.imdb.com/title/tt1305806/?ref_=chttp_t_166
+2024-05-15 14:15:34,612 - INFO - Retrieving data from https://www.imdb.com/title/tt2096673/?ref_=chttp_t_167
+2024-05-15 14:15:34,613 - INFO - Retrieving data from https://www.imdb.com/title/tt0081398/?ref_=chttp_t_168
+2024-05-15 14:15:34,613 - INFO - Retrieving data from https://www.imdb.com/title/tt5027774/?ref_=chttp_t_169
+2024-05-15 14:15:34,614 - INFO - Retrieving data from https://www.imdb.com/title/tt0117951/?ref_=chttp_t_170
+2024-05-15 14:16:24,182 - INFO - Finished processing batch.
+2024-05-15 14:16:24,183 - INFO - Retrieving data from https://www.imdb.com/title/tt0050212/?ref_=chttp_t_171
+2024-05-15 14:16:24,184 - INFO - Retrieving data from https://www.imdb.com/title/tt4729430/?ref_=chttp_t_172
+2024-05-15 14:16:24,185 - INFO - Retrieving data from https://www.imdb.com/title/tt0116282/?ref_=chttp_t_173
+2024-05-15 14:16:24,185 - INFO - Retrieving data from https://www.imdb.com/title/tt10872600/?ref_=chttp_t_174
+2024-05-15 14:16:24,186 - INFO - Retrieving data from https://www.imdb.com/title/tt0264464/?ref_=chttp_t_175
+2024-05-15 14:16:24,187 - INFO - Retrieving data from https://www.imdb.com/title/tt1291584/?ref_=chttp_t_176
+2024-05-15 14:16:24,187 - INFO - Retrieving data from https://www.imdb.com/title/tt1205489/?ref_=chttp_t_177
+2024-05-15 14:16:24,188 - INFO - Retrieving data from https://www.imdb.com/title/tt0096283/?ref_=chttp_t_178
+2024-05-15 14:16:24,188 - INFO - Retrieving data from https://www.imdb.com/title/tt0405159/?ref_=chttp_t_179
+2024-05-15 14:16:24,189 - INFO - Retrieving data from https://www.imdb.com/title/tt1201607/?ref_=chttp_t_180
+2024-05-15 14:17:14,198 - INFO - Finished processing batch.
+2024-05-15 14:17:14,198 - INFO - Retrieving data from https://www.imdb.com/title/tt0118849/?ref_=chttp_t_181
+2024-05-15 14:17:14,199 - INFO - Retrieving data from https://www.imdb.com/title/tt2024544/?ref_=chttp_t_182
+2024-05-15 14:17:14,199 - INFO - Retrieving data from https://www.imdb.com/title/tt0083658/?ref_=chttp_t_183
+2024-05-15 14:17:14,200 - INFO - Retrieving data from https://www.imdb.com/title/tt0112471/?ref_=chttp_t_184
+2024-05-15 14:17:14,200 - INFO - Retrieving data from https://www.imdb.com/title/tt0052618/?ref_=chttp_t_185
+2024-05-15 14:17:14,201 - INFO - Retrieving data from https://www.imdb.com/title/tt0072684/?ref_=chttp_t_186
+2024-05-15 14:17:14,201 - INFO - Retrieving data from https://www.imdb.com/title/tt2278388/?ref_=chttp_t_187
+2024-05-15 14:17:14,202 - INFO - Retrieving data from https://www.imdb.com/title/tt2267998/?ref_=chttp_t_188
+2024-05-15 14:17:14,202 - INFO - Retrieving data from https://www.imdb.com/title/tt2119532/?ref_=chttp_t_189
+2024-05-15 14:17:14,203 - INFO - Retrieving data from https://www.imdb.com/title/tt0015864/?ref_=chttp_t_190
+2024-05-15 14:18:04,956 - INFO - Finished processing batch.
+2024-05-15 14:18:04,957 - INFO - Retrieving data from https://www.imdb.com/title/tt0353969/?ref_=chttp_t_191
+2024-05-15 14:18:04,958 - INFO - Retrieving data from https://www.imdb.com/title/tt0107207/?ref_=chttp_t_192
+2024-05-15 14:18:04,959 - INFO - Retrieving data from https://www.imdb.com/title/tt0097165/?ref_=chttp_t_193
+2024-05-15 14:18:04,959 - INFO - Retrieving data from https://www.imdb.com/title/tt1392190/?ref_=chttp_t_194
+2024-05-15 14:18:04,960 - INFO - Retrieving data from https://www.imdb.com/title/tt3011894/?ref_=chttp_t_195
+2024-05-15 14:18:04,961 - INFO - Retrieving data from https://www.imdb.com/title/tt0077416/?ref_=chttp_t_196
+2024-05-15 14:18:04,961 - INFO - Retrieving data from https://www.imdb.com/title/tt0017925/?ref_=chttp_t_197
+2024-05-15 14:18:04,962 - INFO - Retrieving data from https://www.imdb.com/title/tt0047296/?ref_=chttp_t_198
+2024-05-15 14:18:04,963 - INFO - Retrieving data from https://www.imdb.com/title/tt0198781/?ref_=chttp_t_199
+2024-05-15 14:18:04,963 - INFO - Retrieving data from https://www.imdb.com/title/tt0015324/?ref_=chttp_t_200
+2024-05-15 14:18:55,361 - INFO - Finished processing batch.
+2024-05-15 14:18:55,362 - INFO - Retrieving data from https://www.imdb.com/title/tt0073195/?ref_=chttp_t_201
+2024-05-15 14:18:55,363 - INFO - Retrieving data from https://www.imdb.com/title/tt0892769/?ref_=chttp_t_202
+2024-05-15 14:18:55,364 - INFO - Retrieving data from https://www.imdb.com/title/tt0041959/?ref_=chttp_t_203
+2024-05-15 14:18:55,365 - INFO - Retrieving data from https://www.imdb.com/title/tt0046268/?ref_=chttp_t_204
+2024-05-15 14:18:55,366 - INFO - Retrieving data from https://www.imdb.com/title/tt0050986/?ref_=chttp_t_205
+2024-05-15 14:18:55,366 - INFO - Retrieving data from https://www.imdb.com/title/tt0978762/?ref_=chttp_t_206
+2024-05-15 14:18:55,367 - INFO - Retrieving data from https://www.imdb.com/title/tt0031679/?ref_=chttp_t_207
+2024-05-15 14:18:55,367 - INFO - Retrieving data from https://www.imdb.com/title/tt0382932/?ref_=chttp_t_208
+2024-05-15 14:18:55,368 - INFO - Retrieving data from https://www.imdb.com/title/tt1950186/?ref_=chttp_t_209
+2024-05-15 14:18:55,368 - INFO - Retrieving data from https://www.imdb.com/title/tt0046438/?ref_=chttp_t_210
+2024-05-15 14:19:48,848 - INFO - Finished processing batch.
+2024-05-15 14:19:48,849 - INFO - Retrieving data from https://www.imdb.com/title/tt0118715/?ref_=chttp_t_211
+2024-05-15 14:19:48,849 - INFO - Retrieving data from https://www.imdb.com/title/tt3170832/?ref_=chttp_t_212
+2024-05-15 14:19:48,850 - INFO - Retrieving data from https://www.imdb.com/title/tt0050976/?ref_=chttp_t_213
+2024-05-15 14:19:48,851 - INFO - Retrieving data from https://www.imdb.com/title/tt0075148/?ref_=chttp_t_214
+2024-05-15 14:19:48,851 - INFO - Retrieving data from https://www.imdb.com/title/tt3315342/?ref_=chttp_t_215
+2024-05-15 14:19:48,852 - INFO - Retrieving data from https://www.imdb.com/title/tt1895587/?ref_=chttp_t_216
+2024-05-15 14:19:48,853 - INFO - Retrieving data from https://www.imdb.com/title/tt0395169/?ref_=chttp_t_217
+2024-05-15 14:19:48,853 - INFO - Retrieving data from https://www.imdb.com/title/tt0088247/?ref_=chttp_t_218
+2024-05-15 14:19:48,854 - INFO - Retrieving data from https://www.imdb.com/title/tt0091763/?ref_=chttp_t_219
+2024-05-15 14:19:48,854 - INFO - Retrieving data from https://www.imdb.com/title/tt0019254/?ref_=chttp_t_220
+2024-05-15 14:20:41,427 - INFO - Finished processing batch.
+2024-05-15 14:20:41,428 - INFO - Retrieving data from https://www.imdb.com/title/tt0113247/?ref_=chttp_t_221
+2024-05-15 14:20:41,429 - INFO - Retrieving data from https://www.imdb.com/title/tt0381681/?ref_=chttp_t_222
+2024-05-15 14:20:41,429 - INFO - Retrieving data from https://www.imdb.com/title/tt0036868/?ref_=chttp_t_223
+2024-05-15 14:20:41,430 - INFO - Retrieving data from https://www.imdb.com/title/tt0325980/?ref_=chttp_t_224
+2024-05-15 14:20:41,430 - INFO - Retrieving data from https://www.imdb.com/title/tt0070047/?ref_=chttp_t_225
+2024-05-15 14:20:41,431 - INFO - Retrieving data from https://www.imdb.com/title/tt1979320/?ref_=chttp_t_226
+2024-05-15 14:20:41,432 - INFO - Retrieving data from https://www.imdb.com/title/tt0074958/?ref_=chttp_t_227
+2024-05-15 14:20:41,432 - INFO - Retrieving data from https://www.imdb.com/title/tt15097216/?ref_=chttp_t_228
+2024-05-15 14:20:41,433 - INFO - Retrieving data from https://www.imdb.com/title/tt0092005/?ref_=chttp_t_229
+2024-05-15 14:20:41,433 - INFO - Retrieving data from https://www.imdb.com/title/tt0032138/?ref_=chttp_t_230
+2024-05-15 14:21:30,740 - INFO - Finished processing batch.
+2024-05-15 14:21:30,741 - INFO - Retrieving data from https://www.imdb.com/title/tt0317705/?ref_=chttp_t_231
+2024-05-15 14:21:30,742 - INFO - Retrieving data from https://www.imdb.com/title/tt1028532/?ref_=chttp_t_232
+2024-05-15 14:21:30,742 - INFO - Retrieving data from https://www.imdb.com/title/tt4016934/?ref_=chttp_t_233
+2024-05-15 14:21:30,743 - INFO - Retrieving data from https://www.imdb.com/title/tt0476735/?ref_=chttp_t_234
+2024-05-15 14:21:30,744 - INFO - Retrieving data from https://www.imdb.com/title/tt0758758/?ref_=chttp_t_235
+2024-05-15 14:21:30,744 - INFO - Retrieving data from https://www.imdb.com/title/tt0059742/?ref_=chttp_t_236
+2024-05-15 14:21:30,745 - INFO - Retrieving data from https://www.imdb.com/title/tt0058946/?ref_=chttp_t_237
+2024-05-15 14:21:30,745 - INFO - Retrieving data from https://www.imdb.com/title/tt0035446/?ref_=chttp_t_238
+2024-05-15 14:21:30,746 - INFO - Retrieving data from https://www.imdb.com/title/tt0032551/?ref_=chttp_t_239
+2024-05-15 14:21:30,747 - INFO - Retrieving data from https://www.imdb.com/title/tt0107048/?ref_=chttp_t_240
+2024-05-15 14:22:19,389 - INFO - Finished processing batch.
+2024-05-15 14:22:19,390 - INFO - Retrieving data from https://www.imdb.com/title/tt0245712/?ref_=chttp_t_241
+2024-05-15 14:22:19,391 - INFO - Retrieving data from https://www.imdb.com/title/tt0129167/?ref_=chttp_t_242
+2024-05-15 14:22:19,392 - INFO - Retrieving data from https://www.imdb.com/title/tt0032976/?ref_=chttp_t_243
+2024-05-15 14:22:19,393 - INFO - Retrieving data from https://www.imdb.com/title/tt0061512/?ref_=chttp_t_244
+2024-05-15 14:22:19,393 - INFO - Retrieving data from https://www.imdb.com/title/tt1454029/?ref_=chttp_t_245
+2024-05-15 14:22:19,395 - INFO - Retrieving data from https://www.imdb.com/title/tt0025316/?ref_=chttp_t_246
+2024-05-15 14:22:19,395 - INFO - Retrieving data from https://www.imdb.com/title/tt0103639/?ref_=chttp_t_247
+2024-05-15 14:22:19,396 - INFO - Retrieving data from https://www.imdb.com/title/tt4430212/?ref_=chttp_t_248
+2024-05-15 14:22:19,397 - INFO - Retrieving data from https://www.imdb.com/title/tt0099348/?ref_=chttp_t_249
+2024-05-15 14:22:19,397 - INFO - Retrieving data from https://www.imdb.com/title/tt1954470/?ref_=chttp_t_250
+2024-05-15 14:23:09,887 - INFO - Finished processing batch.
+2024-05-15 14:23:09,888 - INFO - Total movies extracted: 250
+2024-05-15 14:23:09,932 - INFO - Excel file created successfully.
+2024-05-15 14:23:09,933 - INFO - Movies extracted: [{'ranking': '1', 'title': 'The Shawshank Redemption', 'year': '1994', 'duration': '2h 22m', 'rating': '9.3'}, {'ranking': '2', 'title': 'The Godfather', 'year': '1972', 'duration': '2h 55m', 'rating': '9.2'}, {'ranking': '3', 'title': 'The Dark Knight', 'year': '2008', 'duration': '2h 32m', 'rating': '9.0'}, {'ranking': '4', 'title': 'The Godfather Part II', 'year': '1974', 'duration': '3h 22m', 'rating': '9.0'}, {'ranking': '5', 'title': '12 Angry Men', 'year': '1957', 'duration': '1h 36m', 'rating': '9.0'}, {'ranking': '6', 'title': "Schindler's List", 'year': '1993', 'duration': '3h 15m', 'rating': '9.0'}, {'ranking': '7', 'title': 'The Lord of the Rings: The Return of the King', 'year': '2003', 'duration': '3h 21m', 'rating': '9.0'}, {'ranking': '8', 'title': 'Pulp Fiction', 'year': '1994', 'duration': '2h 34m', 'rating': '8.9'}, {'ranking': '9', 'title': 'The Lord of the Rings: The Fellowship of the Ring', 'year': '2001', 'duration': '2h 58m', 'rating': '8.9'}, {'ranking': '10', 'title': 'Il buono, il brutto, il cattivo', 'year': '1966', 'duration': '2h 41m', 'rating': '8.8'}, {'ranking': '11', 'title': 'Forrest Gump', 'year': '1994', 'duration': '2h 22m', 'rating': '8.8'}, {'ranking': '12', 'title': 'The Lord of the Rings: The Two Towers', 'year': '2002', 'duration': '2h 59m', 'rating': '8.8'}, {'ranking': '13', 'title': 'Fight Club', 'year': '1999', 'duration': '2h 19m', 'rating': '8.8'}, {'ranking': '14', 'title': 'Inception', 'year': '2010', 'duration': '2h 28m', 'rating': '8.8'}, {'ranking': '15', 'title': 'Star Wars: Episode V - The Empire Strikes Back', 'year': '1980', 'duration': '2h 4m', 'rating': '8.7'}, {'ranking': '16', 'title': 'The Matrix', 'year': '1999', 'duration': '2h 16m', 'rating': '8.7'}, {'ranking': '17', 'title': 'Goodfellas', 'year': '1990', 'duration': '2h 25m', 'rating': '8.7'}, {'ranking': '18', 'title': "One Flew Over the Cuckoo's Nest", 'year': '1975', 'duration': '2h 13m', 'rating': '8.7'}, {'ranking': '19', 'title': 'Se7en', 'year': '1995', 'duration': '2h 7m', 'rating': '8.6'}, {'ranking': '20', 'title': 'Interstellar', 'year': '2014', 'duration': '2h 49m', 'rating': '8.7'}, {'ranking': '21', 'title': "It's a Wonderful Life", 'year': '1946', 'duration': '2h 10m', 'rating': '8.6'}, {'ranking': '22', 'title': 'Shichinin no samurai', 'year': '1954', 'duration': '3h 27m', 'rating': '8.6'}, {'ranking': '23', 'title': 'The Silence of the Lambs', 'year': '1991', 'duration': '1h 58m', 'rating': '8.6'}, {'ranking': '24', 'title': 'Saving Private Ryan', 'year': '1998', 'duration': '2h 49m', 'rating': '8.6'}, {'ranking': '25', 'title': 'Cidade de Deus', 'year': '2002', 'duration': '2h 10m', 'rating': '8.6'}, {'ranking': '26', 'title': 'Dune: Part Two', 'year': '2024', 'duration': '2h 46m', 'rating': '8.7'}, {'ranking': '27', 'title': 'La vita è bella', 'year': '1997', 'duration': '1h 56m', 'rating': '8.6'}, {'ranking': '28', 'title': 'The Green Mile', 'year': '1999', 'duration': '3h 9m', 'rating': '8.6'}, {'ranking': '29', 'title': 'Terminator 2: Judgment Day', 'year': '1991', 'duration': '2h 17m', 'rating': '8.6'}, {'ranking': '30', 'title': 'Star Wars', 'year': '1977', 'duration': '2h 1m', 'rating': '8.6'}, {'ranking': '31', 'title': 'Back to the Future', 'year': '1985', 'duration': '1h 56m', 'rating': '8.5'}, {'ranking': '32', 'title': 'Sen to Chihiro no kamikakushi', 'year': '2001', 'duration': '2h 5m', 'rating': '8.6'}, {'ranking': '33', 'title': 'The Pianist', 'year': '2002', 'duration': '2h 30m', 'rating': '8.5'}, {'ranking': '34', 'title': 'Gisaengchung', 'year': '2019', 'duration': '2h 12m', 'rating': '8.5'}, {'ranking': '35', 'title': 'Psycho', 'year': '1960', 'duration': '1h 49m', 'rating': '8.5'}, {'ranking': '36', 'title': 'Spider-Man: Across the Spider-Verse', 'year': '2023', 'duration': '2h 20m', 'rating': '8.6'}, {'ranking': '37', 'title': 'Gladiator', 'year': '2000', 'duration': '2h 35m', 'rating': '8.5'}, {'ranking': '38', 'title': 'The Lion King', 'year': '1994', 'duration': '1h 28m', 'rating': '8.5'}, {'ranking': '39', 'title': 'The Departed', 'year': '2006', 'duration': '2h 31m', 'rating': '8.5'}, {'ranking': '40', 'title': 'Léon', 'year': '1994', 'duration': '1h 50m', 'rating': '8.5'}, {'ranking': '41', 'title': 'American History X', 'year': '1998', 'duration': '1h 59m', 'rating': '8.5'}, {'ranking': '42', 'title': 'Whiplash', 'year': '2014', 'duration': '1h 46m', 'rating': '8.5'}, {'ranking': '43', 'title': 'The Prestige', 'year': '2006', 'duration': '2h 10m', 'rating': '8.5'}, {'ranking': '44', 'title': 'Hotaru no haka', 'year': '1988', 'duration': '1h 29m', 'rating': '8.5'}, {'ranking': '45', 'title': 'Seppuku', 'year': '1962', 'duration': '2h 13m', 'rating': '8.6'}, {'ranking': '46', 'title': 'The Usual Suspects', 'year': '1995', 'duration': '1h 46m', 'rating': '8.5'}, {'ranking': '47', 'title': 'Casablanca', 'year': '1942', 'duration': '1h 42m', 'rating': '8.5'}, {'ranking': '48', 'title': 'Intouchables', 'year': '2011', 'duration': '1h 52m', 'rating': '8.5'}, {'ranking': '49', 'title': 'Nuovo Cinema Paradiso', 'year': '1988', 'duration': '2h 54m', 'rating': '8.5'}, {'ranking': '50', 'title': 'Modern Times', 'year': '1936', 'duration': '1h 27m', 'rating': '8.5'}, {'ranking': '51', 'title': 'Rear Window', 'year': '1954', 'duration': '1h 52m', 'rating': '8.5'}, {'ranking': '52', 'title': "C'era una volta il West", 'year': '1968', 'duration': '2h 46m', 'rating': '8.5'}, {'ranking': '53', 'title': 'Alien', 'year': '1979', 'duration': '1h 57m', 'rating': '8.5'}, {'ranking': '54', 'title': 'City Lights', 'year': '1931', 'duration': '1h 27m', 'rating': '8.5'}, {'ranking': '55', 'title': 'Django Unchained', 'year': '2012', 'duration': '2h 45m', 'rating': '8.5'}, {'ranking': '56', 'title': 'Apocalypse Now', 'year': '1979', 'duration': '2h 27m', 'rating': '8.4'}, {'ranking': '57', 'title': 'Memento', 'year': '2000', 'duration': '1h 53m', 'rating': '8.4'}, {'ranking': '58', 'title': '12th Fail', 'year': '2023', 'duration': '2h 27m', 'rating': '8.9'}, {'ranking': '59', 'title': 'WALL·E', 'year': '2008', 'duration': '1h 38m', 'rating': '8.4'}, {'ranking': '60', 'title': 'Raiders of the Lost Ark', 'year': '1981', 'duration': '1h 55m', 'rating': '8.4'}, {'ranking': '61', 'title': 'Das Leben der Anderen', 'year': '2006', 'duration': '2h 17m', 'rating': '8.4'}, {'ranking': '62', 'title': 'Sunset Blvd.', 'year': '1950', 'duration': '1h 50m', 'rating': '8.4'}, {'ranking': '63', 'title': 'Avengers: Infinity War', 'year': '2018', 'duration': '2h 29m', 'rating': '8.4'}, {'ranking': '64', 'title': 'Paths of Glory', 'year': '1957', 'duration': '1h 28m', 'rating': '8.4'}, {'ranking': '65', 'title': 'Spider-Man: Into the Spider-Verse', 'year': '2018', 'duration': '1h 57m', 'rating': '8.4'}, {'ranking': '66', 'title': 'Witness for the Prosecution', 'year': '1957', 'duration': '1h 56m', 'rating': '8.4'}, {'ranking': '67', 'title': 'The Shining', 'year': '1980', 'duration': '2h 26m', 'rating': '8.4'}, {'ranking': '68', 'title': 'The Great Dictator', 'year': '1940', 'duration': '2h 5m', 'rating': '8.4'}, {'ranking': '69', 'title': 'Aliens', 'year': '1986', 'duration': '2h 17m', 'rating': '8.4'}, {'ranking': '70', 'title': 'Inglourious Basterds', 'year': '2009', 'duration': '2h 33m', 'rating': '8.4'}, {'ranking': '71', 'title': 'The Dark Knight Rises', 'year': '2012', 'duration': '2h 44m', 'rating': '8.4'}, {'ranking': '72', 'title': 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb', 'year': '1964', 'duration': '1h 35m', 'rating': '8.4'}, {'ranking': '73', 'title': 'American Beauty', 'year': '1999', 'duration': '2h 2m', 'rating': '8.3'}, {'ranking': '74', 'title': 'Coco', 'year': '2017', 'duration': '1h 45m', 'rating': '8.4'}, {'ranking': '75', 'title': 'Oldeuboi', 'year': '2003', 'duration': '2h', 'rating': '8.3'}, {'ranking': '76', 'title': 'Amadeus', 'year': '1984', 'duration': '2h 40m', 'rating': '8.4'}, {'ranking': '77', 'title': 'Toy Story', 'year': '1995', 'duration': '1h 21m', 'rating': '8.3'}, {'ranking': '78', 'title': 'Das Boot', 'year': '1981', 'duration': '2h 29m', 'rating': '8.4'}, {'ranking': '79', 'title': 'Avengers: Endgame', 'year': '2019', 'duration': '3h 1m', 'rating': '8.4'}, {'ranking': '80', 'title': 'Braveheart', 'year': '1995', 'duration': '2h 58m', 'rating': '8.3'}, {'ranking': '81', 'title': 'Good Will Hunting', 'year': '1997', 'duration': '2h 6m', 'rating': '8.3'}, {'ranking': '82', 'title': 'Mononoke-hime', 'year': '1997', 'duration': '2h 14m', 'rating': '8.3'}, {'ranking': '83', 'title': 'Joker', 'year': '2019', 'duration': '2h 2m', 'rating': '8.4'}, {'ranking': '84', 'title': 'Kimi no na wa.', 'year': '2016', 'duration': '1h 46m', 'rating': '8.4'}, {'ranking': '85', 'title': 'Tengoku to jigoku', 'year': '1963', 'duration': '2h 23m', 'rating': '8.4'}, {'ranking': '86', 'title': 'Once Upon a Time in America', 'year': '1984', 'duration': '3h 49m', 'rating': '8.3'}, {'ranking': '87', 'title': '3 Idiots', 'year': '2009', 'duration': '2h 50m', 'rating': '8.4'}, {'ranking': '88', 'title': "Singin' in the Rain", 'year': '1952', 'duration': '1h 43m', 'rating': '8.3'}, {'ranking': '89', 'title': 'Capharnaüm', 'year': '2018', 'duration': '2h 6m', 'rating': '8.4'}, {'ranking': '90', 'title': 'Idi i smotri', 'year': '1985', 'duration': '2h 22m', 'rating': '8.4'}, {'ranking': '91', 'title': 'Requiem for a Dream', 'year': '2000', 'duration': '1h 42m', 'rating': '8.3'}, {'ranking': '92', 'title': 'Toy Story 3', 'year': '2010', 'duration': '1h 43m', 'rating': '8.3'}, {'ranking': '93', 'title': 'Star Wars: Episode VI - Return of the Jedi', 'year': '1983', 'duration': '2h 11m', 'rating': '8.3'}, {'ranking': '94', 'title': 'Eternal Sunshine of the Spotless Mind', 'year': '2004', 'duration': '1h 48m', 'rating': '8.3'}, {'ranking': '95', 'title': 'Jagten', 'year': '2012', 'duration': '1h 55m', 'rating': '8.3'}, {'ranking': '96', 'title': '2001: A Space Odyssey', 'year': '1968', 'duration': '2h 29m', 'rating': '8.3'}, {'ranking': '97', 'title': 'Oppenheimer', 'year': '2023', 'duration': '3h', 'rating': '8.3'}, {'ranking': '98', 'title': 'Reservoir Dogs', 'year': '1992', 'duration': '1h 39m', 'rating': '8.3'}, {'ranking': '99', 'title': 'Ikiru', 'year': '1952', 'duration': '2h 23m', 'rating': '8.3'}, {'ranking': '100', 'title': 'Lawrence of Arabia', 'year': '1962', 'duration': '3h 38m', 'rating': '8.3'}, {'ranking': '101', 'title': 'The Apartment', 'year': '1960', 'duration': '2h 5m', 'rating': '8.3'}, {'ranking': '102', 'title': 'North by Northwest', 'year': '1959', 'duration': '2h 16m', 'rating': '8.3'}, {'ranking': '103', 'title': 'Incendies', 'year': '2010', 'duration': '2h 11m', 'rating': '8.3'}, {'ranking': '104', 'title': 'Citizen Kane', 'year': '1941', 'duration': '1h 59m', 'rating': '8.3'}, {'ranking': '105', 'title': 'M - Eine Stadt sucht einen Mörder', 'year': '1931', 'duration': '1h 57m', 'rating': '8.3'}, {'ranking': '106', 'title': 'Vertigo', 'year': '1958', 'duration': '2h 8m', 'rating': '8.3'}, {'ranking': '107', 'title': 'Double Indemnity', 'year': '1944', 'duration': '1h 47m', 'rating': '8.3'}, {'ranking': '108', 'title': 'Scarface', 'year': '1983', 'duration': '2h 50m', 'rating': '8.3'}, {'ranking': '109', 'title': 'Full Metal Jacket', 'year': '1987', 'duration': '1h 56m', 'rating': '8.3'}, {'ranking': '110', 'title': "Le fabuleux destin d'Amélie Poulain", 'year': '2001', 'duration': '2h 2m', 'rating': '8.3'}, {'ranking': '111', 'title': 'Heat', 'year': '1995', 'duration': '2h 50m', 'rating': '8.3'}, {'ranking': '112', 'title': 'A Clockwork Orange', 'year': '1971', 'duration': '2h 16m', 'rating': '8.3'}, {'ranking': '113', 'title': 'Up', 'year': '2009', 'duration': '1h 36m', 'rating': '8.3'}, {'ranking': '114', 'title': 'To Kill a Mockingbird', 'year': '1962', 'duration': '2h 9m', 'rating': '8.3'}, {'ranking': '115', 'title': 'Jodaeiye Nader az Simin', 'year': '2011', 'duration': '2h 3m', 'rating': '8.3'}, {'ranking': '116', 'title': 'The Sting', 'year': '1973', 'duration': '2h 9m', 'rating': '8.3'}, {'ranking': '117', 'title': 'Indiana Jones and the Last Crusade', 'year': '1989', 'duration': '2h 7m', 'rating': '8.2'}, {'ranking': '118', 'title': 'Die Hard', 'year': '1988', 'duration': '2h 12m', 'rating': '8.2'}, {'ranking': '119', 'title': 'Metropolis', 'year': '1927', 'duration': '2h 33m', 'rating': '8.3'}, {'ranking': '120', 'title': 'Taare Zameen Par', 'year': '2007', 'duration': '2h 42m', 'rating': '8.3'}, {'ranking': '121', 'title': 'Snatch', 'year': '2000', 'duration': '1h 44m', 'rating': '8.2'}, {'ranking': '122', 'title': 'Hamilton', 'year': '2020', 'duration': '2h 40m', 'rating': '8.3'}, {'ranking': '123', 'title': 'L.A. Confidential', 'year': '1997', 'duration': '2h 18m', 'rating': '8.2'}, {'ranking': '124', 'title': '1917', 'year': '2019', 'duration': '1h 59m', 'rating': '8.2'}, {'ranking': '125', 'title': 'Ladri di biciclette', 'year': '1948', 'duration': '1h 29m', 'rating': '8.3'}, {'ranking': '126', 'title': 'Taxi Driver', 'year': '1976', 'duration': '1h 54m', 'rating': '8.2'}, {'ranking': '127', 'title': 'Der Untergang', 'year': '2004', 'duration': '2h 36m', 'rating': '8.2'}, {'ranking': '128', 'title': 'Dangal', 'year': '2016', 'duration': '2h 41m', 'rating': '8.3'}, {'ranking': '129', 'title': 'Per qualche dollaro in più', 'year': '1965', 'duration': '2h 12m', 'rating': '8.2'}, {'ranking': '130', 'title': 'Batman Begins', 'year': '2005', 'duration': '2h 20m', 'rating': '8.2'}, {'ranking': '131', 'title': 'The Wolf of Wall Street', 'year': '2013', 'duration': '3h', 'rating': '8.2'}, {'ranking': '132', 'title': 'Some Like It Hot', 'year': '1959', 'duration': '2h 1m', 'rating': '8.2'}, {'ranking': '133', 'title': 'Green Book', 'year': '2018', 'duration': '2h 10m', 'rating': '8.2'}, {'ranking': '134', 'title': 'The Kid', 'year': '1921', 'duration': '1h 8m', 'rating': '8.2'}, {'ranking': '135', 'title': 'The Father', 'year': '2020', 'duration': '1h 37m', 'rating': '8.2'}, {'ranking': '136', 'title': 'Judgment at Nuremberg', 'year': '1961', 'duration': '2h 59m', 'rating': '8.3'}, {'ranking': '137', 'title': 'The Truman Show', 'year': '1998', 'duration': '1h 43m', 'rating': '8.2'}, {'ranking': '138', 'title': 'All About Eve', 'year': '1950', 'duration': '2h 18m', 'rating': '8.2'}, {'ranking': '139', 'title': 'Top Gun: Maverick', 'year': '2022', 'duration': '2h 10m', 'rating': '8.2'}, {'ranking': '140', 'title': 'Shutter Island', 'year': '2010', 'duration': '2h 18m', 'rating': '8.2'}, {'ranking': '141', 'title': 'There Will Be Blood', 'year': '2007', 'duration': '2h 38m', 'rating': '8.2'}, {'ranking': '142', 'title': 'Casino', 'year': '1995', 'duration': '2h 58m', 'rating': '8.2'}, {'ranking': '143', 'title': 'Jurassic Park', 'year': '1993', 'duration': '2h 7m', 'rating': '8.2'}, {'ranking': '144', 'title': 'Ran', 'year': '1985', 'duration': '2h 40m', 'rating': '8.2'}, {'ranking': '145', 'title': 'The Sixth Sense', 'year': '1999', 'duration': '1h 47m', 'rating': '8.2'}, {'ranking': '146', 'title': 'El laberinto del fauno', 'year': '2006', 'duration': '1h 58m', 'rating': '8.2'}, {'ranking': '147', 'title': 'Unforgiven', 'year': '1992', 'duration': '2h 10m', 'rating': '8.2'}, {'ranking': '148', 'title': 'No Country for Old Men', 'year': '2007', 'duration': '2h 2m', 'rating': '8.2'}, {'ranking': '149', 'title': 'A Beautiful Mind', 'year': '2001', 'duration': '2h 15m', 'rating': '8.2'}, {'ranking': '150', 'title': 'The Thing', 'year': '1982', 'duration': '1h 49m', 'rating': '8.2'}, {'ranking': '151', 'title': 'Kill Bill: Vol. 1', 'year': '2003', 'duration': '1h 51m', 'rating': '8.2'}, {'ranking': '152', 'title': 'The Treasure of the Sierra Madre', 'year': '1948', 'duration': '2h 6m', 'rating': '8.2'}, {'ranking': '153', 'title': 'Yôjinbô', 'year': '1961', 'duration': '1h 50m', 'rating': '8.2'}, {'ranking': '154', 'title': 'Monty Python and the Holy Grail', 'year': '1975', 'duration': '1h 31m', 'rating': '8.2'}, {'ranking': '155', 'title': 'The Great Escape', 'year': '1963', 'duration': '2h 52m', 'rating': '8.2'}, {'ranking': '156', 'title': 'Finding Nemo', 'year': '2003', 'duration': '1h 40m', 'rating': '8.2'}, {'ranking': '157', 'title': 'Prisoners', 'year': '2013', 'duration': '2h 33m', 'rating': '8.2'}, {'ranking': '158', 'title': 'Rashômon', 'year': '1950', 'duration': '1h 28m', 'rating': '8.2'}, {'ranking': '159', 'title': 'Hauru no ugoku shiro', 'year': '2004', 'duration': '1h 59m', 'rating': '8.2'}, {'ranking': '160', 'title': 'The Elephant Man', 'year': '1980', 'duration': '2h 4m', 'rating': '8.2'}, {'ranking': '161', 'title': 'Chinatown', 'year': '1974', 'duration': '2h 10m', 'rating': '8.1'}, {'ranking': '162', 'title': 'Dial M for Murder', 'year': '1954', 'duration': '1h 28m', 'rating': '8.2'}, {'ranking': '163', 'title': 'Gone with the Wind', 'year': '1939', 'duration': '3h 58m', 'rating': '8.2'}, {'ranking': '164', 'title': 'V for Vendetta', 'year': '2005', 'duration': '2h 12m', 'rating': '8.2'}, {'ranking': '165', 'title': 'Lock, Stock and Two Smoking Barrels', 'year': '1998', 'duration': '1h 47m', 'rating': '8.1'}, {'ranking': '166', 'title': 'El secreto de sus ojos', 'year': '2009', 'duration': '2h 9m', 'rating': '8.2'}, {'ranking': '167', 'title': 'Inside Out', 'year': '2015', 'duration': '1h 35m', 'rating': '8.1'}, {'ranking': '168', 'title': 'Raging Bull', 'year': '1980', 'duration': '2h 9m', 'rating': '8.1'}, {'ranking': '169', 'title': 'Three Billboards Outside Ebbing, Missouri', 'year': '2017', 'duration': '1h 55m', 'rating': '8.1'}, {'ranking': '170', 'title': 'Trainspotting', 'year': '1996', 'duration': '1h 33m', 'rating': '8.1'}, {'ranking': '171', 'title': 'The Bridge on the River Kwai', 'year': '1957', 'duration': '2h 41m', 'rating': '8.1'}, {'ranking': '172', 'title': 'Klaus', 'year': '2019', 'duration': '1h 36m', 'rating': '8.2'}, {'ranking': '173', 'title': 'Fargo', 'year': '1996', 'duration': '1h 38m', 'rating': '8.1'}, {'ranking': '174', 'title': 'Spider-Man: No Way Home', 'year': '2021', 'duration': '2h 28m', 'rating': '8.2'}, {'ranking': '175', 'title': 'Catch Me If You Can', 'year': '2002', 'duration': '2h 21m', 'rating': '8.1'}, {'ranking': '176', 'title': 'Warrior', 'year': '2011', 'duration': '2h 20m', 'rating': '8.1'}, {'ranking': '177', 'title': 'Gran Torino', 'year': '2008', 'duration': '1h 56m', 'rating': '8.1'}, {'ranking': '178', 'title': 'Tonari no Totoro', 'year': '1988', 'duration': '1h 26m', 'rating': '8.1'}, {'ranking': '179', 'title': 'Million Dollar Baby', 'year': '2004', 'duration': '2h 12m', 'rating': '8.1'}, {'ranking': '180', 'title': 'Harry Potter and the Deathly Hallows - Part 2', 'year': '2011', 'duration': '2h 10m', 'rating': '8.1'}, {'ranking': '181', 'title': 'Bacheha-Ye aseman', 'year': '1997', 'duration': '1h 29m', 'rating': '8.2'}, {'ranking': '182', 'title': '12 Years a Slave', 'year': '2013', 'duration': '2h 14m', 'rating': '8.1'}, {'ranking': '183', 'title': 'Blade Runner', 'year': '1982', 'duration': '1h 57m', 'rating': '8.1'}, {'ranking': '184', 'title': 'Before Sunrise', 'year': '1995', 'duration': '1h 41m', 'rating': '8.1'}, {'ranking': '185', 'title': 'Ben-Hur', 'year': '1959', 'duration': '3h 32m', 'rating': '8.1'}, {'ranking': '186', 'title': 'Barry Lyndon', 'year': '1975', 'duration': '3h 5m', 'rating': '8.1'}, {'ranking': '187', 'title': 'The Grand Budapest Hotel', 'year': '2014', 'duration': '1h 39m', 'rating': '8.1'}, {'ranking': '188', 'title': 'Gone Girl', 'year': '2014', 'duration': '2h 29m', 'rating': '8.1'}, {'ranking': '189', 'title': 'Hacksaw Ridge', 'year': '2016', 'duration': '2h 19m', 'rating': '8.1'}, {'ranking': '190', 'title': 'The Gold Rush', 'year': '1925', 'duration': '1h 35m', 'rating': '8.1'}, {'ranking': '191', 'title': 'Salinui chueok', 'year': '2003', 'duration': '2h 11m', 'rating': '8.1'}, {'ranking': '192', 'title': 'In the Name of the Father', 'year': '1993', 'duration': '2h 13m', 'rating': '8.1'}, {'ranking': '193', 'title': 'Dead Poets Society', 'year': '1989', 'duration': '2h 8m', 'rating': '8.1'}, {'ranking': '194', 'title': 'Mad Max: Fury Road', 'year': '2015', 'duration': '2h', 'rating': '8.1'}, {'ranking': '195', 'title': 'Relatos salvajes', 'year': '2014', 'duration': '2h 2m', 'rating': '8.1'}, {'ranking': '196', 'title': 'The Deer Hunter', 'year': '1978', 'duration': '3h 3m', 'rating': '8.1'}, {'ranking': '197', 'title': 'The General', 'year': '1926', 'duration': '1h 18m', 'rating': '8.1'}, {'ranking': '198', 'title': 'On the Waterfront', 'year': '1954', 'duration': '1h 48m', 'rating': '8.1'}, {'ranking': '199', 'title': 'Monsters, Inc.', 'year': '2001', 'duration': '1h 32m', 'rating': '8.1'}, {'ranking': '200', 'title': 'Sherlock Jr.', 'year': '1924', 'duration': '45m', 'rating': '8.2'}, {'ranking': '201', 'title': 'Jaws', 'year': '1975', 'duration': '2h 4m', 'rating': '8.1'}, {'ranking': '202', 'title': 'How to Train Your Dragon', 'year': '2010', 'duration': '1h 38m', 'rating': '8.1'}, {'ranking': '203', 'title': 'The Third Man', 'year': '1949', 'duration': '1h 44m', 'rating': '8.1'}, {'ranking': '204', 'title': 'Le salaire de la peur', 'year': '1953', 'duration': '2h 11m', 'rating': '8.2'}, {'ranking': '205', 'title': 'Smultronstället', 'year': '1957', 'duration': '1h 31m', 'rating': '8.1'}, {'ranking': '206', 'title': 'Mary and Max.', 'year': '2009', 'duration': '1h 32m', 'rating': '8.1'}, {'ranking': '207', 'title': 'Mr. Smith Goes to Washington', 'year': '1939', 'duration': '2h 9m', 'rating': '8.1'}, {'ranking': '208', 'title': 'Ratatouille', 'year': '2007', 'duration': '1h 51m', 'rating': '8.1'}, {'ranking': '209', 'title': 'Ford v Ferrari', 'year': '2019', 'duration': '2h 32m', 'rating': '8.1'}, {'ranking': '210', 'title': 'Tôkyô monogatari', 'year': '1953', 'duration': '2h 16m', 'rating': '8.1'}, {'ranking': '211', 'title': 'The Big Lebowski', 'year': '1998', 'duration': '1h 57m', 'rating': '8.1'}, {'ranking': '212', 'title': 'Room', 'year': '2015', 'duration': '1h 58m', 'rating': '8.1'}, {'ranking': '213', 'title': 'Det sjunde inseglet', 'year': '1957', 'duration': '1h 36m', 'rating': '8.1'}, {'ranking': '214', 'title': 'Rocky', 'year': '1976', 'duration': '2h', 'rating': '8.1'}, {'ranking': '215', 'title': 'Logan', 'year': '2017', 'duration': '2h 17m', 'rating': '8.1'}, {'ranking': '216', 'title': 'Spotlight', 'year': '2015', 'duration': '2h 9m', 'rating': '8.1'}, {'ranking': '217', 'title': 'Hotel Rwanda', 'year': '2004', 'duration': '2h 1m', 'rating': '8.1'}, {'ranking': '218', 'title': 'The Terminator', 'year': '1984', 'duration': '1h 47m', 'rating': '8.1'}, {'ranking': '219', 'title': 'Platoon', 'year': '1986', 'duration': '2h', 'rating': '8.1'}, {'ranking': '220', 'title': "La passion de Jeanne d'Arc", 'year': '1928', 'duration': '1h 50m', 'rating': '8.1'}, {'ranking': '221', 'title': 'La haine', 'year': '1995', 'duration': '1h 38m', 'rating': '8.1'}, {'ranking': '222', 'title': 'Before Sunset', 'year': '2004', 'duration': '1h 20m', 'rating': '8.1'}, {'ranking': '223', 'title': 'The Best Years of Our Lives', 'year': '1946', 'duration': '2h 50m', 'rating': '8.1'}, {'ranking': '224', 'title': 'Pirates of the Caribbean: The Curse of the Black Pearl', 'year': '2003', 'duration': '2h 23m', 'rating': '8.1'}, {'ranking': '225', 'title': 'The Exorcist', 'year': '1973', 'duration': '2h 2m', 'rating': '8.1'}, {'ranking': '226', 'title': 'Rush', 'year': '2013', 'duration': '2h 3m', 'rating': '8.1'}, {'ranking': '227', 'title': 'Network', 'year': '1976', 'duration': '2h 1m', 'rating': '8.1'}, {'ranking': '228', 'title': 'Jai Bhim', 'year': '2021', 'duration': '2h 44m', 'rating': '8.7'}, {'ranking': '229', 'title': 'Stand by Me', 'year': '1986', 'duration': '1h 29m', 'rating': '8.1'}, {'ranking': '230', 'title': 'The Wizard of Oz', 'year': '1939', 'duration': '1h 42m', 'rating': '8.1'}, {'ranking': '231', 'title': 'The Incredibles', 'year': '2004', 'duration': '1h 55m', 'rating': '8.0'}, {'ranking': '232', 'title': "Hachi: A Dog's Tale", 'year': '2009', 'duration': '1h 33m', 'rating': '8.1'}, {'ranking': '233', 'title': 'Ah-ga-ssi', 'year': '2016', 'duration': '2h 25m', 'rating': '8.1'}, {'ranking': '234', 'title': 'Babam ve Oglum', 'year': '2005', 'duration': '1h 52m', 'rating': '8.2'}, {'ranking': '235', 'title': 'Into the Wild', 'year': '2007', 'duration': '2h 28m', 'rating': '8.1'}, {'ranking': '236', 'title': 'The Sound of Music', 'year': '1965', 'duration': '2h 52m', 'rating': '8.1'}, {'ranking': '237', 'title': 'La battaglia di Algeri', 'year': '1966', 'duration': '2h 1m', 'rating': '8.1'}, {'ranking': '238', 'title': 'To Be or Not to Be', 'year': '1942', 'duration': '1h 39m', 'rating': '8.1'}, {'ranking': '239', 'title': 'The Grapes of Wrath', 'year': '1940', 'duration': '2h 9m', 'rating': '8.1'}, {'ranking': '240', 'title': 'Groundhog Day', 'year': '1993', 'duration': '1h 41m', 'rating': '8.0'}, {'ranking': '241', 'title': 'Amores perros', 'year': '2000', 'duration': '2h 34m', 'rating': '8.1'}, {'ranking': '242', 'title': 'The Iron Giant', 'year': '1999', 'duration': '1h 26m', 'rating': '8.1'}, {'ranking': '243', 'title': 'Rebecca', 'year': '1940', 'duration': '2h 10m', 'rating': '8.1'}, {'ranking': '244', 'title': 'Cool Hand Luke', 'year': '1967', 'duration': '2h 7m', 'rating': '8.1'}, {'ranking': '245', 'title': 'The Help', 'year': '2011', 'duration': '2h 26m', 'rating': '8.1'}, {'ranking': '246', 'title': 'It Happened One Night', 'year': '1934', 'duration': '1h 45m', 'rating': '8.1'}, {'ranking': '247', 'title': 'Aladdin', 'year': '1992', 'duration': '1h 30m', 'rating': '8.0'}, {'ranking': '248', 'title': 'Drishyam', 'year': '2015', 'duration': '2h 43m', 'rating': '8.2'}, {'ranking': '249', 'title': 'Dances with Wolves', 'year': '1990', 'duration': '3h 1m', 'rating': '8.0'}, {'ranking': '250', 'title': 'Gangs of Wasseypur', 'year': '2012', 'duration': '5h 21m', 'rating': '8.2'}]
+2024-05-15 14:23:09,934 - INFO - Skipped movies: []

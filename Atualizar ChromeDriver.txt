@@ -1,0 +1,19 @@
+Verificar versão do Chrome:
+Abrir um novo separador do Chrome
+Clicar nos três pontinhos no canto superior direito
+Clicar em Definições
+Clicar em Acerca do Chrome e verificar a versão
+
+
+Para versão do Chrome 115 e mais recentes:
+Ir para: https://googlechromelabs.github.io/chrome-for-testing/
+Andar um pouco para baixo até ao separador STABLE
+Copiar a URL do 'chromedriver' | 'win64'
+Colar a URL num novo separador do Chrome e esperar fazer a transferência
+No zip transferido, extrair a pasta
+Copiar os arquivos 'chromedriver.exe' e 'LICENSE.chromedriver' e colar na pasta do 'via_ctt.exe'
+
+
+Para versão do Chrome 114 e mais antigas:
+Ir para: https://chromedriver.chromium.org/downloads
+Fazer o download do ChromeDriver da versão do Chrome atual
