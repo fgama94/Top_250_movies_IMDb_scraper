@@ -16,13 +16,13 @@ Export to Excel: Generates an Excel file (Top250MoviesIMDB_<timestamp>.xlsx) con
 
 # Setup
 
-Prerequisites
+Prerequisites:
 
-  Python 3.x
+Python 3.x
   
-  Chrome WebDriver (chromedriver.exe included in the repository) - might need to update the chromedriver (https://googlechromelabs.github.io/chrome-for-testing/)
+Chrome WebDriver (chromedriver.exe included in the repository) - might need to update the chromedriver (https://googlechromelabs.github.io/chrome-for-testing/)
   
-  Required Python packages:
+Required Python packages:
   
     asyncio
     
@@ -38,21 +38,30 @@ Prerequisites
 # Installation
 
 Clone the repository:
-  git clone https://github.com/your-username/imdb-top-250-scraper.git
-  cd imdb-top-250-scraper
+
+    git clone https://github.com/your-username/imdb-top-250-scraper.git
+  
+    cd imdb-top-250-scraper
+
 
 Install dependencies if not already installed:
-  pip install asyncio urllib3 openpyxl beautifulsoup4 selenium
+
+    pip install asyncio urllib3 openpyxl beautifulsoup4 selenium
+  
 
 Ensure chromedriver.exe is in the project directory.
+
 
 
 # Usage
 
 Run the script imdb_top_250_scraper.py:
-  python imdb_top_250_scraper.py
+
+    python imdb_top_250_scraper.py
+  
 
 The script will fetch IMDb's top 250 movies data, process it, and generate an Excel file (Top250MoviesIMDB_<timestamp>.xlsx) in the Top 250 Movies IMDB directory.
+
 
 
 # Logs
